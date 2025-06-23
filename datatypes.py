@@ -1,6 +1,6 @@
 # 1. Prompt for age and calculate next birthday age
 age = int(input("How old are you? "))
-next_age = age + 1
+next_age = age + 5
 print(f"On your next birthday, you will be {next_age} years old.")
 
 # 2. Prompt for number of egg cartons and calculate total eggs
